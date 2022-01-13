@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thaleswe
+- 👀 I’m interested in Web and Mobile development
+- 🌱 I’m currently entering the server side area with PhP
+- 💞️ I’m looking to collaborate on big projects if I find something I can collaborate on, otherwise, the focus are in my personal projects!
+- 📫 You can reach me in Instagram @sigleane
