@@ -11,7 +11,7 @@ I'm **Wendel** and as much as I work a lot with front end, my area is backend!.
   <img align="center" alt="Thales-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thales-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Thales-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="right" alt="Thales-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/3e/a3/89/3ea3898a4fad533eb3e941bd787f1cfd.gif?width=676&height=676">
+  <img align="right" alt="Thales-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/809216883571687484/932715781949636698/output-onlinegiftools.gif?width=676&height=676">
 
 </div>
   
