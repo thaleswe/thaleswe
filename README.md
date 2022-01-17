@@ -1,4 +1,6 @@
-## Hey there 👋, as much as I work a lot with front end, my area is backend!
+## Hi there 👋
+I'm **Wendel** and as much as I work a lot with front end, my area is backend!.
+
 <div align="center">
   <a href="https://github.com/thaleswe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaleswe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
