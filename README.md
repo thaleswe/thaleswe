@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
 I'm **Wendel** and as much as I work a lot with front end, my area is backend!.
 
 <div align="center">
