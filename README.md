@@ -1,27 +1,49 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
-I'm **Wendel** and as much as I work a lot with front end, my area is backend!.
+## Hi there 👋  
+I'm **Thales Wendel** — Full Stack Developer with a strong focus on **Backend Engineering**.
+
+I build scalable, secure, and well-structured systems, while also enjoying crafting clean and efficient front-end experiences. I care deeply about architecture, performance, and user experience.
+
+---
+
+### 🚀 Tech Stack
+
+**Languages & Frameworks**
+<div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="TypeScript" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img align="center" alt="React" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img align="center" alt="NodeJS" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="HTML5" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS3" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="MySQL" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+</div>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/thaleswe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaleswe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaleswe&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaleswe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaleswe&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thales-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thales-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thales-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Thales-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="right" alt="Thales-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/809216883571687484/932715781949636698/output-onlinegiftools.gif?width=676&height=676">
 
+---
+
+### 📬 Contact
+
+<div>
+  <a href="https://instagram.com/thaleswndl" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:thaleswndl@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/sigleane" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:thaleswndl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thales-wendel-b0a203229?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqIxP194fTrmwKxufm3gCkg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/thaleswe/thaleswe/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+---
+
+### 🐍 Contributions
+
+![Snake animation](https://github.com/thaleswe/thaleswe/blob/output/github-contribution-grid-snake.svg)
