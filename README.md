@@ -20,17 +20,6 @@ I build scalable, secure, and well-structured systems, while also enjoying craft
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/thaleswe">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaleswe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaleswe&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ### 📬 Contact
 
 <div>
@@ -43,7 +32,3 @@ I build scalable, secure, and well-structured systems, while also enjoying craft
 </div>
 
 ---
-
-### 🐍 Contributions
-
-![Snake animation](https://github.com/thaleswe/thaleswe/blob/output/github-contribution-grid-snake.svg)
